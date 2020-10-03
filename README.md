@@ -12,6 +12,8 @@ We need the following data
     Node onion address: hjyuqfmpg3ns7f4ohqqpa2akl3yi3dlv3kk66xiwpm6uytr5ad62r3yd.onion
     Port: 9735
 
+### Setup
+
 The first step is to set up a bitcoin node and then a lightning node on top of it. The setup process is described **[here](https://github.com/krouspy/monnaies-numeriques/tree/master/td1#bitcoin-core)** for the bitcoin node and **[here](https://github.com/krouspy/monnaies-numeriques/tree/master/td1#lightning-node)** for the lightning node.
 
 #### [Tor](https://github.com/krouspy/monnaies-numeriques/tree/master/td1#tor)
